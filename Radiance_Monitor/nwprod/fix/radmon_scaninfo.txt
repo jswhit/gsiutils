@@ -1,11 +1,11 @@
- sndrd1_g11                0.00      1.00        65
- sndrd2_g11                0.00      1.00        65
- sndrd3_g11                0.00      1.00        65
- sndrd4_g11                0.00      1.00        65
  sndrd1_g13                0.00      1.00        65
  sndrd2_g13                0.00      1.00        65
  sndrd3_g13                0.00      1.00        65
  sndrd4_g13                0.00      1.00        65
+ sndrd1_g14                0.00      1.00        65
+ sndrd2_g14                0.00      1.00        65
+ sndrd3_g14                0.00      1.00        65
+ sndrd4_g14                0.00      1.00        65
  sndrd1_g15                0.00      1.00        65
  sndrd2_g15                0.00      1.00        65
  sndrd3_g15                0.00      1.00        65
@@ -33,7 +33,12 @@
  amsua_metop-a           -48.33      3.33        30
  mhs_metop-a             -49.44      1.10        90 
  iasi_metop-a            -50.00      1.67        60
- cris_npp                -51.615     3.33        30 
- atms_npp                -52.725     1.11        96
+ hirs4_metop-b           -49.50      1.80        56
+ amsua_metop-b           -48.33      3.33        30
+ mhs_metop-b             -49.44      1.10        90
+ iasi_metop-b            -50.00      1.67        60
+ cris_npp               -51.615      3.33        30 
+ atms_npp               -52.725      1.11        96
  seviri_m09                0.00      1.00        90
+ seviri_m10                0.00      1.00        90
 !sat_sis                  start      step       nstep
