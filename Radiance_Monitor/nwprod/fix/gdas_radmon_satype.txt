@@ -1,1 +1,1 @@
-airs_aqua amsua_aqua amsua_metop-a amsua_n15 amsua_n18 amsua_n19 amsub_n17 hirs3_n17 hirs4_metop-a hirs4_n19 iasi_metop-a mhs_metop-a mhs_n18 mhs_n19 sndrd1_g13 sndrd2_g13 sndrd3_g13 sndrd4_g13 atms_npp seviri_m10 sndrd1_g15 sndrd2_g15 sndrd3_g15 sndrd4_g15 
+airs_aqua amsua_aqua amsua_metop-a amsua_metop-b amsua_n15 amsua_n18 amsua_n19 hirs4_metop-a hirs4_metop-b hirs4_n19 iasi_metop-a iasi_metop-b mhs_metop-a mhs_metop-b mhs_n18 mhs_n19 sndrd1_g13 sndrd2_g13 sndrd3_g13 sndrd4_g13 atms_npp cris_npp seviri_m10 sndrd1_g15 sndrd2_g15 sndrd3_g15 sndrd4_g15 
